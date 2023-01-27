@@ -1,0 +1,24 @@
+{
+  "cart": {
+		"cost": {
+		  	"totalAmount": {
+				"amount": "123.0"
+		  }
+		},
+		"deliveryGroups": [
+		  {
+				"deliveryAddress": {
+			  	"city": "Sr",
+			  	"countryCode": "IN",
+			  	"provinceCode": "GJ",
+			  	"zip": "123123"
+				}
+		  }
+		],
+		"buyerIdentity": {
+		  "customer": {
+				"email": "helo@gmail.com"
+		  }
+		}	
+	}
+}
